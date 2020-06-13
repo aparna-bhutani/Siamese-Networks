@@ -1,6 +1,6 @@
 # Siamese-Networks
 
-Design and implement (using Pytorch) a CNN architecture which as input takes two images of digits from MNIST dataset and outputs 1 if both images correspond to the same digit and 0 otherwise using the concept of Siamese Networks.
+Designed and implemented (using Pytorch) a CNN architecture which as input takes two images of digits from MNIST dataset and outputs 1 if both images correspond to the same digit and 0 otherwise using the concept of Siamese Networks.
 
 I have used 10% of MNIST training data set as the training data set and only 10% of MNIST test data set as test
 data set.
